@@ -1,5 +1,9 @@
 # <h1 align="center" style="border-bottom: none"> *100 Days of Learning* </h1>
 
+## CONTRIBUTORS
+ - Giri
+ - Unknown
+
 ### Topics
 #### 1. Machine Learning
  - Deep Learning
